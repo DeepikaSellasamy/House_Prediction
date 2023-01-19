@@ -67,4 +67,4 @@ sqft_lot15 : lotSize area in 2015(implies-- some renovations)
  
  Prediction using test data
  
- Finding the accuracy of the model
+ Conclude the model with best accuracy
